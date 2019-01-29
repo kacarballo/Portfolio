@@ -1,8 +1,8 @@
-# _{Karla Carballo | Portfolio}_
+# _Karla Carballo | Portfolio_
 
-#### _{Portfolio of Karla Carballo; work that I have created since starting coding boot camp}, {January 2019}_
+#### _Portfolio of Karla Carballo; work that I have created since starting coding boot camp, January 2019_
 
-#### By _**{Karla Carballo}**_
+#### By _**Karla Carballo**_
 
 ## Description
 
